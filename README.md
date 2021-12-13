@@ -7,11 +7,12 @@ we have manage this todo list with simple array so if you refresh the page all t
 
 ## Installation
 
-Install my-project with npm
+Install react-tudu-app with npm
 
 ```bash
   git clone https://github.com/amitm13/react-tudu-app.git
   cd react-tudu-app
+  npm install
   npm start
 ```
 
